@@ -9,4 +9,5 @@ patches:
 - path: deployment-patch.yaml
 - path: backend-configmap-patch.yaml  
 - path: backend-secret-patch.yaml  
+- path: service-patch.yaml  
  
